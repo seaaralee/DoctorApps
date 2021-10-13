@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Doctor</string>
+    <string name="log_in">Log In</string>
+    <string name="masukan_nama">masukan nama email dan kata sandi</string>
+    <string name="email">Email</string>
+    <string name="kata_sandi">Kata Sandi</string>
+</resources>
